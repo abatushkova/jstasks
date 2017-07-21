@@ -1,7 +1,7 @@
 # jstasks
 js tasks to solve
 
-1. Empty: Shown the concept of assert tasks. https://jsbin.com/niqicu/2/edit?js,console
+1. Empty: Shown the concept of assert tasks. https://jsbin.com/niqicu/edit?js,console
 
 2. Reverse: Reverse string with oppotite letters order. https://jsbin.com/bubexoh/edit?js,output
 
