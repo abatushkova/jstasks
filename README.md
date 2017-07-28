@@ -4,6 +4,7 @@ js tasks to solve
 1. Empty (Nothing to do, just see example): Shown the concept of assert tasks. https://jsbin.com/niqicu/edit?js,console
 
 2. Reverse: Reverse string with opposite letters order. https://jsbin.com/bubexoh/edit?js,console
+            Result. https://jsbin.com/yivefol/edit?js,console
 
 3. Popular: Shown most popular letter in string. https://jsbin.com/tudiyim/edit?js,console
 
