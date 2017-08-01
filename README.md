@@ -21,3 +21,13 @@ js tasks to solve
 
 10. Quadratic equation: Find X to solve equation. https://jsbin.com/palasev/edit?js,console
 https://wiki.eduvdom.com/subjects/mathematics/%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B5_%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F
+
+11. SecretWord: Write function return word for current secret numbers. http://jsbin.com/tuxoyeniya/edit?js,console
+
+12. WhoIsOnDutyToday: Write function return lastName of person who is on duty today. http://jsbin.com/piqepaqoso/edit?js,console
+
+13. DogName: Write function return name of last dog in kitchen from first appartment. https://jsbin.com/lojosik/edit?js,console
+
+14. Sum: Write function return sum of all input parameters of type number. https://jsbin.com/yuqowexuyu/edit?js,console
+
+15. ArrayMultiply: Write function return array double time more values based on count value. https://jsbin.com/najuqahace/edit?js,console
