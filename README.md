@@ -26,6 +26,7 @@ https://wiki.eduvdom.com/subjects/mathematics/%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%
 11. SecretWord: Write function return word for current secret numbers. http://jsbin.com/tuxoyeniya/edit?js,console
 
 12. WhoIsOnDutyToday: Write function return lastName of person who is on duty today. http://jsbin.com/piqepaqoso/edit?js,console
+                      Result. http://jsbin.com/kipupec/edit?js,console
 
 13. DogName: Write function return name of last dog in kitchen from first appartment. https://jsbin.com/lojosik/edit?js,console
 
