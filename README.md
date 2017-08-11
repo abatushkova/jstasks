@@ -13,7 +13,7 @@ js tasks to solve
 
 6. CrossSum: Summrize all values at the same places in 2 arrays and return new array of results. https://jsbin.com/laroseg/edit?js,console
 
-7. Transform: Return transformed values of array using given transformation function. https://jsbin.com/niqicu/edit?js,console
+7. Transform: Return transformed values of array using given transformation function. https://jsbin.com/niqicu/edit?js,console .Result. https://jsbin.com/pewohig/edit?js,console
 
 8. Numbers: Check is input string contains only numbers. https://jsbin.com/seceseg/edit?js,console
 
@@ -26,7 +26,7 @@ https://wiki.eduvdom.com/subjects/mathematics/%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%
 
 12. WhoIsOnDutyToday: Write function return lastName of person who is on duty today. http://jsbin.com/piqepaqoso/edit?js,console .Result. http://jsbin.com/kipupec/edit?js,console (need last changes to be done)
 
-13. DogName: Write function return name of last dog in kitchen from first appartment. https://jsbin.com/lojosik/edit?js,console
+13. DogName: Write function return name of last dog in kitchen from first appartment. https://jsbin.com/lojosik/edit?js,console .Result. https://jsbin.com/loruza/edit?js,console
 
 14. Sum: Write function return sum of all input parameters of type number. https://jsbin.com/yuqowexuyu/edit?js,console
 
