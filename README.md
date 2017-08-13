@@ -30,4 +30,4 @@ https://wiki.eduvdom.com/subjects/mathematics/%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%
 
 14. Sum: Write function return sum of all input parameters of type number. https://jsbin.com/yuqowexuyu/edit?js,console
 
-15. ArrayMultiply: Write function return array double time more values based on count value. https://jsbin.com/najuqahace/edit?js,console
+15. ArrayMultiply: Write function return array double time more values based on count value. https://jsbin.com/najuqahace/edit?js,console .Result. https://jsbin.com/leyokah/edit?js,console
